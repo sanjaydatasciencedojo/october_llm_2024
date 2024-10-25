@@ -1,0 +1,22 @@
+langchain==0.2.16
+langchain-core==0.2.38
+langchain-community==0.2.16
+langchain-openai==0.1.23
+langchain-experimental==0.0.65
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+streamlit==1.27.2
+openai==1.43.1
+altair==4
+duckduckgo-search==6.3.2
+pypdf==3.16.4
+chromadb==0.5.5
+
+# Core Dependencies
+tiktoken==0.7.0
+faiss-cpu==1.8.0.post1
+Pillow===10.4.0
+
+# Additional Dependencies
+setuptools>=42
+wheel>=0.36.2
